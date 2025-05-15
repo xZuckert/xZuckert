@@ -2,7 +2,7 @@
 
 🎓 I'm a **Computer Science student**, passionate about technology and software development.  
 💻 I work mainly with **Java**, **Python** and **MySQL**, and I enjoy building applications from the ground up.  
-🔐 I developed a **cryptography project** as part of my academic journey, applying math to code in a meaningful way.  
+🔐 I developed a cryptography project and a water consumption monitoring app as part of my academic journey.  
 
 ---
 
