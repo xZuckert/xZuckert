@@ -7,8 +7,10 @@
 ---
 
 ### 🚀 Tech Stack
-- 🧠 Languages: `Java`, `Python`, `MySQL`
-- 🛠️ Interests: Cryptography, application development, backend, algorithms
+- 🧠 Languages: `Java`, `C#`, `Python`, `SQL`
+- 🛢️ Databases: `MySQL`, `SQL Server`
+- ⚙️ Tools & Frameworks: `.NET`, `Git`, `GitHub`
+- 🛠️ Interests: Cryptography, backend development, algorithms, databases, data persistence
 
 ---
 
